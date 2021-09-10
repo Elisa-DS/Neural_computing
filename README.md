@@ -8,8 +8,8 @@ Initial data from UCI - http://archive.ics.uci.edu/ml/datasets/Cardiotocography
 
 For testing final models only run (these files are saved with best hyperparameters from
 training):
-1 -MLP_CTG_final.m
-2- SVM_CTG_final.m
+1. MLP_CTG_final.m
+2. SVM_CTG_final.m
 
 Other Files and workflow:
 1. data.csv (initial data from UCI used in data_processing.m)
